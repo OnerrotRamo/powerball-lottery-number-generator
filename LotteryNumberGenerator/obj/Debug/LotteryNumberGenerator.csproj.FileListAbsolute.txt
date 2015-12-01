@@ -1,0 +1,9 @@
+C:\Users\Omar\documents\visual studio 2013\Projects\LotteryNumberGenerator\LotteryNumberGenerator\bin\Debug\LotteryNumberGenerator.exe.config
+C:\Users\Omar\documents\visual studio 2013\Projects\LotteryNumberGenerator\LotteryNumberGenerator\bin\Debug\LotteryNumberGenerator.exe
+C:\Users\Omar\documents\visual studio 2013\Projects\LotteryNumberGenerator\LotteryNumberGenerator\bin\Debug\LotteryNumberGenerator.pdb
+C:\Users\Omar\documents\visual studio 2013\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Omar\documents\visual studio 2013\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.Form1.resources
+C:\Users\Omar\documents\visual studio 2013\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.Properties.Resources.resources
+C:\Users\Omar\documents\visual studio 2013\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.csproj.GenerateResource.Cache
+C:\Users\Omar\documents\visual studio 2013\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.exe
+C:\Users\Omar\documents\visual studio 2013\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.pdb
